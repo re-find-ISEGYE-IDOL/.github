@@ -1,0 +1,12 @@
+<p align="center">
+    <img src="https://github.com/Chokoty/re-find_nextjs/blob/main/public/refind4_alpha.png?raw=true" align="center" width="100px" style="border-radius: 50%;">
+</p>
+
+<h1 align="center">RE:FIND</h1>
+<h3 align="center"></h3>
+<p align="center">
+    <a href="https://re-find.xyz/" target="_blank">🔗 Official Web Site</a>
+</p>
+<p align="center">
+    👋 저희는 왁타버스, 이세계 아이돌 팬아트 원본 출처 찾기 프로젝트 RE:FIND의 개발 팀입니다.
+</p>
