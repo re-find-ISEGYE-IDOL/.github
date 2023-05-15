@@ -2,7 +2,7 @@
     <img src="https://github.com/Chokoty/re-find_nextjs/blob/main/public/refind4_alpha.png?raw=true" align="center" width="100px" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">RE:FIND</h1>
+<h1 align="center">리파인드 RE:FIND</h1>
 <h3 align="center"></h3>
 <p align="center">
     <a href="https://re-find.xyz/" target="_blank">🔗 Official Web Site</a>
