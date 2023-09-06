@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Chokoty/re-find_nextjs/blob/main/public/refind4_alpha.png?raw=true" align="center" width="100px" style="border-radius: 50%;">
+    <img src="https://github.com/Chokoty/re-find_nextjs/blob/main/public/refind5.png?raw=true" align="center" width="100px" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">리파인드 RE:FIND</h1>
